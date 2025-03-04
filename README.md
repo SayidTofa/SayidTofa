@@ -6,9 +6,12 @@ insights and drive data-informed decisions. Proven ability to deliver actionable
 
 ## TECHNICAL SKILLS:
 • MICROSOFT EXCEL: ETL, Data Cleaning, Data Modelling, Data Visualization
+
 • SQL: Data Definition Language (DDL), Data Query Language (DQL), Data Manipulation
+
 Language (DML), Data Control Language (DCL), Transaction Control Language (TCL)
 • PYTHON: Pandas, NumPy, Matplotlib, Seaborn, Data Wrangling, Data Visualization
+
 • POWER BI: Reporting, Data Visualization, Dashboard Creation
 
 ## CONTACT ME:
